@@ -1,4 +1,4 @@
-Final project COMM 329:
+# Final project COMM 329:
 
 Personal resume website. My plan is to keep this updated as time goes on and I gain experience and build my portfolio.
 
